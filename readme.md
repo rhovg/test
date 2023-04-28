@@ -3,4 +3,4 @@ aaaaaa
 bbbbbb
 cccccccc 
 GitHub使ってキーボード作りたいお
-aaaaaaaaa
+aaaaaaaaa/
